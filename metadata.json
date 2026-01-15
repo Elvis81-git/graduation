@@ -1,0 +1,5 @@
+{
+  "name": "Graduation Greeting Card",
+  "description": "An interactive digital greeting card in an envelope for the graduating class. The envelope opens on click to reveal a heartfelt letter with a confetti effect.",
+  "requestFramePermissions": []
+}
